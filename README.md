@@ -32,6 +32,9 @@ Before you begin, make sure you have the following: <br/>
    pip install -r requirements.txt
    ```
 3. Configure your API keys in configure.py:
-   ```bash
+   ```python
+   api_key = 'your-gemini-api-key'
+   bot_token = 'your-telegram-token'
    ```
+4. 
 
