@@ -1,5 +1,5 @@
 # Shah-GPT
-Shah GPT is an advanced chatbot built using the Google Gemini API and integrated with Telegram. This bot can answer any questions you ask, leveraging the power of generative AI from the Gemini API. It’s designed to provide quick and informative responses to users via a Telegram chat interface. <br/>
+Shah GPT is an advanced chatbot built using the Google Gemini API and integrated with Telegram. This bot can answer any questions you ask in both English and Azerbaijani, leveraging the power of the Gemini API and the easygoogletranslate module for translation.. It’s designed to provide quick and informative responses to users via a Telegram chat interface. <br/>
 <br/>
 
 ## Features
