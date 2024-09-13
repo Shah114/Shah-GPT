@@ -55,4 +55,6 @@ Once your bot is running, users can interact with it by sending messages in a Te
 <br/>
 
 ## Future Enhancements
+* Add language translation support for multi-language queries.
+* Integrate voice commands using a speech-to-text feature.
 
