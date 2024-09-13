@@ -23,18 +23,21 @@ Before you begin, make sure you have the following: <br/>
 
 ## Installation
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/Shah114/Shah-GPT.git
    cd Shah-GPT
    ```
-2. Install the required packages:
+3. Install the required packages:
+   
    ```bash
    pip install -r requirements.txt
    ```
-3. Configure your API keys in configure.py:
+4. Configure your API keys in configure.py:
+   
    ```python
    api_key = 'your-gemini-api-key'
    bot_token = 'your-telegram-token'
    ```
-4. 
+
 
