@@ -18,4 +18,14 @@ Shah GPT is an advanced chatbot built using the Google Gemini API and integrated
 ## Prerequisites
 Before you begin, make sure you have the following: <br/>
 * Telegram Bot Token: Create a new bot via BotFather on Telegram and get your bot token.
-* Google Gemini API Key: Obtain an API key from Google Gemini to enable the chatbot's AI capabilities.
+* Google Gemini API Key: Obtain an API key from Google Gemini to enable the chatbot's AI capabilities. <br/>
+<br/>
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shah114/Shah-GPT.git
+   cd Shah-GPT
+   ```
+2. Install the required packages:
+
