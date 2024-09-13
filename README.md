@@ -39,5 +39,13 @@ Before you begin, make sure you have the following: <br/>
    api_key = 'your-gemini-api-key'
    bot_token = 'your-telegram-token'
    ```
+<br/>
 
+## Running the Bot
+To run the bot, simply execute: <br/>
+
+```bash
+python bot.py
+```
+Your bot will now be live and ready to answer questions on Telegram.
 
