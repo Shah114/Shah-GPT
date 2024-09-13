@@ -51,4 +51,8 @@ Then write /start on Telegram. Your bot will now be live and ready to answer que
 <br/>
 
 ## Usage
+Once your bot is running, users can interact with it by sending messages in a Telegram chat. The bot will forward the message to the Gemini API and return a response directly in the chat. <br/>
+<br/>
+
+## Future Enhancements
 
