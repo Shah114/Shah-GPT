@@ -14,4 +14,4 @@ Shah GPT is an advanced chatbot built using the Google Gemini API and integrated
 * requirements.txt: Contains the list of dependencies required for running the chatbot, including the necessary Telegram and API libraries. <br/>
 <br/>
 
-##
+# Getting Started
