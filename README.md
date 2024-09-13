@@ -47,5 +47,8 @@ To run the bot, simply execute: <br/>
 ```bash
 python bot.py
 ```
-Your bot will now be live and ready to answer questions on Telegram.
+Then write /start on Telegram. Your bot will now be live and ready to answer questions on Telegram. <br/>
+<br/>
+
+## Usage
 
