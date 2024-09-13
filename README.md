@@ -3,6 +3,7 @@ Shah GPT is an advanced chatbot built using the Google Gemini API and integrated
 <br/>
 
 ## Features
+* Multilingual Support: Communicate in both English and Azerbaijani. You can select which language you want to communicate.
 * Ask Anything: Get detailed responses to your questions by interacting with the bot on Telegram.
 * Powered by Google Gemini API: Utilizes the Gemini API to generate high-quality answers.
 * Telegram Integration: Easily communicate with the bot via Telegram using a token for secure messaging. <br/>
